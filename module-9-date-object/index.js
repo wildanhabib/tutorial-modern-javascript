@@ -11,7 +11,7 @@ let now = new Date()
 
 // Menggunakan string
 let specificDate = new Date("August 20, 2024 10:30:00")
-// console.log(specificDate)
+console.log(specificDate)
 
 
 // Menggunakan parameter (tahun, bulan, hari, jam, menit, detik, milidetik)
